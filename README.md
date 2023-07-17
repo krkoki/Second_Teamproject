@@ -66,10 +66,8 @@ NAVER (영화의 정보, 리뷰 및 평점 크롤링) : (https://www.naver.com/)
 
 | `RNN` | `CNN` |
 | --- | --- |
-|![RNN](https://github.com/krkoki/Second_Teamproject/assets/121409518/604d191a-eef9-491b-9202-3ee84e6171f0)
-|![CNN](https://github.com/krkoki/Second_Teamproject/assets/121409518/10b26fe9-543b-4fe7-97c4-b0644d1dbe4d)|
-|![RNN2](https://github.com/krkoki/Second_Teamproject/assets/121409518/ebd72cc5-eccd-4c6c-9332-703b3627554f)
-|![CNN2](https://github.com/krkoki/Second_Teamproject/assets/121409518/231d2bae-4e1c-4b79-ae69-4e56ce9b7a5d)|
+|![RNN](https://github.com/krkoki/Second_Teamproject/assets/121409518/604d191a-eef9-491b-9202-3ee84e6171f0)|![CNN](https://github.com/krkoki/Second_Teamproject/assets/121409518/10b26fe9-543b-4fe7-97c4-b0644d1dbe4d)|
+|![RNN2](https://github.com/krkoki/Second_Teamproject/assets/121409518/ebd72cc5-eccd-4c6c-9332-703b3627554f)|![CNN2](https://github.com/krkoki/Second_Teamproject/assets/121409518/231d2bae-4e1c-4b79-ae69-4e56ce9b7a5d)|
 
 #### 4. Django를 이용한 서비스 구현
   - 서비스 구현 담당 장민수 님 개인사정으로 인한 구현 중지
